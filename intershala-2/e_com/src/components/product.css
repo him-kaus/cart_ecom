@@ -1,0 +1,11 @@
+body{
+    background-color: #bc7474;
+}
+.heading{
+    margin: auto;
+    text-align: center;
+}
+.side{
+    float: left;
+    margin: 10px;
+}
